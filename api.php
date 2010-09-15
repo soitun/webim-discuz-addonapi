@@ -65,7 +65,7 @@ $Data = array(
 	array(
 		'Name' => 'DiscuzX聊天插件[X1, X1.5]',
 		'Version' => '1.1',
-		'Url' => 'http://www.webim20.cn/download/discuzX',
+		'Url' => 'http://www.webim20.cn/download/discuzx',
 		'Time' => '2010-9-14',
 		'Thumb' => 'http://www.webim20.cn/images/dzx_demo.png',
 		'Description' => 'webim是一个为DiscuzX用户打造的网页版及时聊天工具，用户通过聊天工具栏可随即与在线好友聊天。在线版用户安装后需要到webim20.cn注册一个apikey，配置后即可使用。更多帮助信息请访问 webim20.cn',
